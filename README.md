@@ -37,7 +37,7 @@ La descripción del juego/aplicación es ...
 
 ### Autor(es)
 El autor(es) del proyecto son:
-- Nombre completo del autor 1 (@nombreUsuarioGitHub)
+- Carlos Daniel Gonzalez Reyna 1 (CarDan77) 
 - Nombre completo del autor 2 (@nombreUsuarioGitHub)
 
 ### Materia(s)
