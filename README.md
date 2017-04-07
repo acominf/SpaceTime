@@ -38,7 +38,7 @@ La descripción del juego/aplicación es ...
 ### Autor(es)
 El autor(es) del proyecto son:
 - Carlos Daniel Gonzalez Reyna 1 (CarDan77) 
-- Nombre completo del autor 2 (@nombreUsuarioGitHub)
+- Miguel Angel Vazquez Vidales 2 (Migguel-Vazquez)
 
 ### Materia(s)
 - Programación Orientada a Objetos
