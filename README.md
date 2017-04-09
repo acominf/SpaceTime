@@ -1,10 +1,12 @@
 ![En construcción](https://upload.wikimedia.org/wikipedia/commons/e/ef/En_construccion.jpg)
 
 ### Objetivo del juego/aplicación
-El objetivo del juego/aplicación es ...
+El objetivo del juego es ....
 
 ### Descripción del juego/aplicación
-La descripción del juego/aplicación es ...
+Consistirá en una aventura a través del espacio donde tendremos que ir recogiendo piezas las cuales al conseguirlas todas se podrá abrir un portal y podremos avanzar en el juego.
+Pero esto no será tan fácil ya que las piezas saldrán cada cierto tiempo y mientras esperamos la pieza tendremos que lidiar con enemigos alienígenas y tendremos que esquivar asteroides los cuales irán aumentando su velocidad, nuestro personaje que será una nave podrá disparar y durante el juego podrá tomar capsulas que brindaran más poder, mientas más alienígenas y asteroides destruya, más puntos obtendrá. 
+.
 
 ### Clases principales y sus características
 1. Clase 1
