@@ -9,30 +9,20 @@ Pero esto no será tan fácil ya que las piezas saldrán cada cierto tiempo y mi
 .
 
 ### Clases principales y sus características
-1. Clase 1
-* caracteristica1
-* caracteristica2
-* caracteristica3
+1. Nave 
+* Esta clase se considera la mas importante ya que la nave es la que el usuario controlara, y en ella se concentran las colisiones y algunas funciones que le dan vida al juego.
 
-2. Clase 2
-* caracteristica1
-* caracteristica2
-* caracteristica3
+2.Enemigo 
+* Esta clase es abstracta, se tiene el metodo movimiento el cual se encuentra implementado en las clases Alien,Asteroide y Cometa
 
-3. Clase 3
-* caracteristica1
-* caracteristica2
-* caracteristica3
+3.Poder
+* En esa clase se lleva el contro de las esferas de poder que salen aleatoriamente en el juego para darle una mayor interaccion al usuario al poder conseguir dichos poderes
 
-4. Clase 4
-* caracteristica1
-* caracteristica2
-* caracteristica3
+4. Imagen 
+* Esta clase solo nos sirve para clasificar todo lo que es una imagen de las cuales se hace uso en el juego 
 
-5. Clase 5
-* caracteristica1
-* caracteristica2
-* caracteristica3
+5. Fase1
+* Esta clase es una subclase de World y es nuestro escenario en el cual se realiza la mayor parte del juego ya que aqui es donde se le da forma a lo que pasara en el juego 
 
 ### Diagrama de clases
 ![Diagrama de clases](url-del-diagrama.png)
