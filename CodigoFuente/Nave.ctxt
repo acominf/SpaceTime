@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Nave
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Nave\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Esta\ clase\ es\ la\ importante\ ya\ que\ esta\ es\ el\ usuario\ y\ con\ ella\ se\ haran\ muchas\ cosas\ \r\n
+comment2.params=
+comment2.target=void\ MovimientoNave()
+comment2.text=public\ void\ arcivoTxt(){\r\n\ \ \ \ \ \ \ \ String\ cadenA\ \=\ "Hola";\r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ FileWriter\ file\ \=\ null;\r\n\ \ \ \ \ \ \ \ try{\r\n\ \ \ \ \ \ \ \ \ \ \ \ file\ \=\ new\ FileWriter("C\:/Users/anggel_vkz/Desktop/Final/SpaceTime1.0/Records.txt");//Establece\ la\ ruta\ donde\ se\ va\ a\ guardar\r\n\ \ \ \ \ \ \ \ \ \ \ \ PrintWriter\ fWrite\ \=\ new\ PrintWriter(file);\r\n\ \ \ \ \ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ \ \ \ \ //cadenA\ \=\ Cadena;\r\n\ \ \ \ \ \ \ \ \ \ \ \ getWorld().showText(cadenA,250,10);\r\n\ \ \ \ \ \ \ \ \ \ \ \ //fWrite.println(cadena);\r\n\ \ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ \ catch\ (IOException\ e){\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ System.out.println("No\ pudo\ crearse\ el\ archivo,\ intenta\ otra\ ruta");\r\n\ \ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ \ finally\r\n\ \ \ \ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ try{\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ file.close();\r\n\ \ \ \ \ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ \ \ \ \ catch(Exception\ e){\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ System.out.println("El\ archivo\ no\ pudo\ guardarse,\ revisa\ si\ no\ esta\ abierto");\r\n\ \ \ \ \ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ \ }\r\n}
+comment3.params=
+comment3.target=void\ DisparaBala()
+comment4.params=
+comment4.target=void\ DisparaMisil()
+comment5.params=
+comment5.target=void\ Colisiones()
+numComments=6

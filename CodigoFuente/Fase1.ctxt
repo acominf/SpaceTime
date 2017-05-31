@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Fase1
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Fase1\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Fase1()
+comment10.params=
+comment10.target=void\ muestraPunto()
+comment2.params=num
+comment2.target=void\ CreaAsteroides(int)
+comment2.text=\r\n\ Este\ metodo\ nos\ sirve\ para\ estar\ creando\ los\ asteroides\ que\ iran\ saliendo\ \r\n\ Recibe\ un\ numero\ que\ indica\ la\ cantidad\ de\ asteroides\ a\ crear\ \r\n
+comment3.params=
+comment3.target=void\ Poder()
+comment4.params=num
+comment4.target=void\ CreaAlien(int)
+comment5.params=num
+comment5.target=void\ CreaCometa(int)
+comment6.params=
+comment6.target=void\ DibujaVidas()
+comment7.params=
+comment7.target=void\ DisminuyeVida()
+comment8.params=
+comment8.target=void\ IncrementaV()
+comment9.params=
+comment9.target=void\ Fases()
+numComments=11
